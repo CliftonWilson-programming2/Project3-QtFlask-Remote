@@ -1,0 +1,13 @@
+Toastmaster Toolbox - Speech Report
+
+Target Time: 300.0 s
+Actual Time: 10.3 s
+Timing Result: Under time by 289.7 s
+
+Total Disfluencies: 0
+Disfluency Times: (none)
+
+Facial Expression Summary:
+  happy   :  336 (49.7 %)
+  neutral :  274 (40.5 %)
+  fear    :   66 ( 9.8 %)
